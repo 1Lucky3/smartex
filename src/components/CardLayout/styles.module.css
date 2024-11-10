@@ -1,0 +1,6 @@
+.cardsLayout {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    border: 1px solid black;
+}
