@@ -11,3 +11,8 @@
   - Возможно стоит заменить CSR(client side rendering) на SRR.
   
   - для оценки использовал бы Google Lightрouse или Performance
+
+## [Задание 1](./task1.js)
+## [Задание 2](./task2.js)
+## [Задание 3](./task3.js)
+## [Задание 4](./task1.js)
